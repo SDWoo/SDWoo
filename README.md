@@ -28,27 +28,17 @@
   
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphQl&logoColor=white"/>
   <br>
 
   
 #### studying...✏
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
-
-## Online Judge 💻
-
-* BOJ: [hwangstar156](http://icpc.me/hwangstar156)
-  * solvedac: [hwangstar156](https://solved.ac/profile/hwangstar156)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwangstar156)](https://solved.ac/hwangstar156)
 
 
 ## Contacts 📫
 
-* Email: hwangstar156@gmail.com  
-* velog-blog: [기존 velog 블로그](https://velog.io/@baby_dev)
+* Email: dw980919@gmail.com  
+* velog-blog: 준비중..
   <!--<div align=center>-->  
 <br>
 <a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
