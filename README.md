@@ -38,10 +38,10 @@
 ## Contacts 📫
 
 * Email: dw980919@gmail.com  
-* velog-blog: 준비중..
+* tistory-blog: https://sdwoo.tistory.com/
   <!--<div align=center>-->  
 <br>
-<a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://sdwoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:hwangstar156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
   
