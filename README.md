@@ -6,7 +6,7 @@
 <blockquote>
 <p>
     <li><strong>⚙숭실대학교 소프트웨어학부 재학중⚙</strong> <br><br>
-    <li><b>개발 공부 1년차⏲<br><br>
+    <li><b>개발 공부중⏲<br><br>
     <li><b>미래의 front-end developer😀<br>   
     
 </p>
