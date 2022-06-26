@@ -20,7 +20,7 @@
 [![SDWoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SDWoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SDWoo)
     
 
-## Tech Stack🛠
+## Tech Stack🛠 and studying...✏
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -29,11 +29,7 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <br>
-
   
-#### studying...✏
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-
 
 ## Contacts 📫
 
