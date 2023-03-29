@@ -1,8 +1,5 @@
 ## SDWoo &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSDWoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![front-end-roadmap](https://user-images.githubusercontent.com/23068523/141998801-fab7b40e-1f05-4630-8896-3d477069d351.jpeg)
-
-
 <blockquote>
 <p>
     <li><strong>⚙숭실대학교 소프트웨어학부 재학중⚙</strong> <br><br>
@@ -29,16 +26,4 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <br>
-  
-
-## Contacts 📫
-
-* Email: dw980919@gmail.com  
-* tistory-blog: https://sdwoo.tistory.com/
-  <!--<div align=center>-->  
-<br>
-<a href="https://sdwoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="mailto:hwangstar156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+ 
