@@ -10,9 +10,6 @@
 </blockquote>
 <br>
         
->Reading...📖 : 자바스크립트 딥다이브
-<br>
-        
 ![SDWoo's github stats](https://github-readme-stats.vercel.app/api?username=SDWoo&show_icons=true) 
 [![SDWoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SDWoo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SDWoo)
     
